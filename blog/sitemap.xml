@@ -4,64 +4,64 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/</loc>
-<lastmod>2022-03-31T15:09:57-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2022-03-31T16:04:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/archives.html</loc>
-<lastmod>2022-03-31T15:09:57-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2022-03-31T16:04:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/tags.html</loc>
-<lastmod>2022-03-31T15:09:57-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2022-03-31T16:04:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/categories.html</loc>
-<lastmod>2022-03-31T15:09:57-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2022-03-31T16:04:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/pages/about/</loc>
+<loc>./pages/about/</loc>
 <lastmod>2022-03-03T14:35:30+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/2020-Fall-Intro-to-computer-programming.html</loc>
-<lastmod>2022-03-03T14:35:30+08:00</lastmod>
+<loc>./w6_40923211.html</loc>
+<lastmod>2022-03-31T16:02:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/category/misc.html</loc>
-<lastmod>2022-03-03T14:35:30+08:06</lastmod>
+<loc>./category/misc.html</loc>
+<lastmod>2022-03-31T16:02:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/tag/2020fallcp.html</loc>
-<lastmod>2022-03-03T14:35:30+08:06</lastmod>
+<loc>./tag/2022springcd.html</loc>
+<lastmod>2022-03-31T16:02:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://chiamingyen.github.io/cmsimfly/blog/author/yen.html</loc>
-<lastmod>2022-03-03T14:35:30+08:06</lastmod>
+<loc>./author/40923211.html</loc>
+<lastmod>2022-03-31T16:02:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
