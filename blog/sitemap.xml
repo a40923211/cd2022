@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://a40923211.github.io/cd2022/blog/</loc>
-<lastmod>2022-03-31T16:40:32-00:00</lastmod>
+<lastmod>2022-04-07T15:21:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://a40923211.github.io/cd2022/blog/archives.html</loc>
-<lastmod>2022-03-31T16:40:32-00:00</lastmod>
+<lastmod>2022-04-07T15:21:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://a40923211.github.io/cd2022/blog/tags.html</loc>
-<lastmod>2022-03-31T16:40:32-00:00</lastmod>
+<lastmod>2022-04-07T15:21:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://a40923211.github.io/cd2022/blog/categories.html</loc>
-<lastmod>2022-03-31T16:40:32-00:00</lastmod>
+<lastmod>2022-04-07T15:21:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,29 +39,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://a40923211.github.io/cd2022/blog/w7_40923211.html</loc>
+<lastmod>2022-04-07T15:20:38+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://a40923211.github.io/cd2022/blog/w6_40923211.html</loc>
-<lastmod>2022-03-31T16:02:38+08:00</lastmod>
+<lastmod>2022-04-07T15:13:20+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://a40923211.github.io/cd2022/blog/category/misc.html</loc>
-<lastmod>2022-03-31T16:02:38+08:06</lastmod>
+<lastmod>2022-04-07T15:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://a40923211.github.io/cd2022/blog/tag/2022springcd.html</loc>
-<lastmod>2022-03-31T16:02:38+08:06</lastmod>
+<lastmod>2022-04-07T15:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://a40923211.github.io/cd2022/blog/author/40923211.html</loc>
-<lastmod>2022-03-31T16:02:38+08:06</lastmod>
+<lastmod>2022-04-07T15:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
