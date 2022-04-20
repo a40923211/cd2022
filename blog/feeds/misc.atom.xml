@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923211 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-09T15:17:34+08:00</updated><entry><title>W7</title><link href="./w7_40923211.html" rel="alternate"></link><published>2022-04-07T03:11:00+08:00</published><updated>2022-04-09T15:08:48+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-07:./w7_40923211.html</id><content type="html">&lt;p&gt;2022偕同產品設計實習
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923211 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T22:13:46+08:00</updated><entry><title>2022協同產品設計W8</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-20T11:00:00+08:00</published><updated>2022-04-20T22:13:46+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-20:./midterm.html</id><summary type="html">&lt;p&gt;w8的部分為將uram手臂放入coppeliasim去模擬並使用UI介面去控制
+分配到的零件(8~~14)&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w8的部分為將uram手臂放入coppeliasim去模擬並使用UI介面去控制
+分配到的零件(8~~14)&lt;/p&gt;
+
+&lt;h2&gt;關於w8&lt;/h2&gt;
+&lt;p&gt;w8的部分為將uram手臂放入coppeliasim去模擬並使用UI介面去控制網站
+分配到的零件(8~~14)&lt;/p&gt;
+&lt;h2&gt;流程&lt;/h2&gt;
+&lt;p&gt;依照分配到的零件去畫出來wink在&lt;a href="https://a40923211.github.io/cd2022/content/midterm.html"&gt;零件繪製&lt;/a&gt;
+再來丟進coppeliasim模擬，過程都在上面的連結了&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;solvespase不太好用，但要學著習慣，模擬的過程中依樣有許多的困難，例如軸的運動順序，雖然有許多風雨但還是學到很多&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_40923211.html" rel="alternate"></link><published>2022-04-07T03:11:00+08:00</published><updated>2022-04-14T16:26:38+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-07:./w7_40923211.html</id><content type="html">&lt;p&gt;2022偕同產品設計實習
 工作分配進度&lt;/p&gt;
-</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-09T15:17:34+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計&lt;/p&gt;
+</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T00:00:00+08:00</published><updated>2022-04-14T16:26:38+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 協同產品設計&lt;/p&gt;
 
-&lt;p&gt;w3 wink影片五部完成&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923211.html" rel="alternate"></link><published>2022-03-31T11:00:00+08:00</published><updated>2022-04-07T15:13:20+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-03-31:./w6_40923211.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+&lt;p&gt;w3 wink影片五部完成&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923211.html" rel="alternate"></link><published>2022-03-31T11:00:00+08:00</published><updated>2022-04-14T16:26:38+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-03-31:./w6_40923211.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
