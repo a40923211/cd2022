@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2022-04-21T14:23:33-00:00</lastmod>
+<lastmod>2022-04-21T15:02:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2022-04-21T14:23:33-00:00</lastmod>
+<lastmod>2022-04-21T15:02:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2022-04-21T14:23:33-00:00</lastmod>
+<lastmod>2022-04-21T15:02:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2022-04-21T14:23:33-00:00</lastmod>
+<lastmod>2022-04-21T15:02:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,21 +40,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./midterm.html</loc>
-<lastmod>2022-04-20T22:13:46+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./w7_40923211.html</loc>
-<lastmod>2022-04-14T16:26:38+08:00</lastmod>
+<lastmod>2022-04-21T15:02:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./w7_summary.html</loc>
-<lastmod>2022-04-14T16:26:38+08:00</lastmod>
+<lastmod>2022-04-21T14:58:04+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,21 +61,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2022-04-21T14:23:18+08:06</lastmod>
+<lastmod>2022-04-21T15:02:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2022springcd.html</loc>
-<lastmod>2022-04-21T14:23:18+08:06</lastmod>
+<lastmod>2022-04-21T15:02:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923211.html</loc>
-<lastmod>2022-04-21T14:23:18+08:06</lastmod>
+<lastmod>2022-04-21T15:02:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
