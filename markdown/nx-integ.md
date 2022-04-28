@@ -13,7 +13,11 @@ Author: 40923211
 
 w10_nx_integ
 ----
-wink等等傳
+wink影片在[這裡]
+
+
+
+[這裡]:https://a40923211.github.io/cd2022/content/w10_nx_integ.html
 
 
 
