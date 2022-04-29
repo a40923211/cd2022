@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923211 網際內容管理</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-29T07:33:58+08:00</updated><entry><title>w10_block_ui</title><link href="./w10_block_ui.html" rel="alternate"></link><published>2022-04-28T11:00:00+08:00</published><updated>2022-04-28T16:58:20+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-28:./w10_block_ui.html</id><summary type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923211 網際內容管理</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-29T13:28:58+08:00</updated><entry><title>w10_block_ui</title><link href="./w10_block_ui.html" rel="alternate"></link><published>2022-04-28T11:00:00+08:00</published><updated>2022-04-28T16:58:20+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-28:./w10_block_ui.html</id><summary type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
 
 
 &lt;h2&gt;w10_block_ui&lt;/h2&gt;
-&lt;p&gt;wink錄完了影片在&lt;a href="https://a40923211.github.io/cd2022/content/w10_block_ui.html"&gt;這裡&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w10_nx_integ</title><link href="./w10_nx_integ.html" rel="alternate"></link><published>2022-04-28T11:00:00+08:00</published><updated>2022-04-29T07:33:58+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-28:./w10_nx_integ.html</id><summary type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
+&lt;p&gt;wink錄完了影片在&lt;a href="https://a40923211.github.io/cd2022/content/w10_block_ui.html"&gt;這裡&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w10_nx_integ</title><link href="./w10_nx_integ.html" rel="alternate"></link><published>2022-04-28T11:00:00+08:00</published><updated>2022-04-29T13:28:58+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-28:./w10_nx_integ.html</id><summary type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
 
 
 &lt;h2&gt;w10_nx_integ&lt;/h2&gt;
-&lt;p&gt;wink影片在&lt;a href="https://a40923211.github.io/cd2022/content/w10_nx_integ.html"&gt;這裡&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022協同產品設計W8</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-20T11:00:00+08:00</published><updated>2022-04-21T15:02:28+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-20:./midterm.html</id><summary type="html">&lt;p&gt;w8的部分為將uram手臂放入coppeliasim去模擬並使用UI介面去控制&lt;/p&gt;
+&lt;p&gt;wink影片在&lt;a href="https://a40923211.github.io/cd2022/content/w10_nx_integ.html"&gt;這裡&lt;/a&gt;
+建立nx1980的基本設置&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w10_ssh</title><link href="./w10_ssh.html" rel="alternate"></link><published>2022-04-28T11:00:00+08:00</published><updated>2022-04-29T13:28:28+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-28:./w10_ssh.html</id><summary type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022協同產品課程&lt;/p&gt;
+
+
+&lt;h2&gt;w10_ssh&lt;/h2&gt;
+&lt;p&gt;wink影片在&lt;a href="https://a40923211.github.io/cd2022/content/w10_ssh.html"&gt;這裡&lt;/a&gt;
+建立基本的ssh，遇到小問題要會解決&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022協同產品設計W8</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-20T11:00:00+08:00</published><updated>2022-04-21T15:02:28+08:00</updated><author><name>40923211</name></author><id>tag:None,2022-04-20:./midterm.html</id><summary type="html">&lt;p&gt;w8的部分為將uram手臂放入coppeliasim去模擬並使用UI介面去控制&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w8的部分為將uram手臂放入coppeliasim去模擬並使用UI介面去控制&lt;/p&gt;
 
 &lt;h2&gt;關於w8&lt;/h2&gt;
